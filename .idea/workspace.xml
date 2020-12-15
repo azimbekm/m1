@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64f68a10-6680-4992-929e-1bc3f5e2d18c" name="Default Changelist" comment="" />
+    <list default="true" id="64f68a10-6680-4992-929e-1bc3f5e2d18c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git Bash.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/bg/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/carousel/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/carousel/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/carousel/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/catalog/c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/icon/chat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/icon/delivery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/icon/timer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/logo/running.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l7Do9J16vgKCbp83aiDlBeu9dy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -56,7 +83,7 @@
       <workItem from="1607540870156" duration="4585000" />
       <workItem from="1607775486269" duration="4518000" />
       <workItem from="1608034881808" duration="1198000" />
-      <workItem from="1608036856667" duration="674000" />
+      <workItem from="1608036856667" duration="1270000" />
     </task>
     <servers />
   </component>
